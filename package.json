@@ -168,7 +168,7 @@
     "inquirer": "^3.0.6",
     "lodash": "^4.17.5",
     "metro": "^0.38.1",
-    "metro-babel-register": "^0.38.1",
+    "metro-babel-register": "git+https://github.com/dolpheen/metro.git#metro-babel-register-v0.42.0-gitpkg",
     "metro-core": "^0.38.1",
     "metro-memory-fs": "^0.38.1",
     "mime": "^1.3.4",
